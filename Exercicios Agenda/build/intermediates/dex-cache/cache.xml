@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\trabalhosAndroid\Exercicios Agenda\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\trabalhosAndroid\Exercicios Agenda\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-2c0d725fcaea060a4ddf352223c9c6fcd4027dca.jar" />
+    </item>
+    <item
+        jar="C:\trabalhosAndroid\Exercicios Agenda\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\trabalhosAndroid\Exercicios Agenda\app\build\intermediates\pre-dexed\debug\classes-a3476185ad5046203d00f6235d80ddc484e2489f.jar" />
+    </item>
+    <item
+        jar="C:\trabalhosAndroid\Exercicios Agenda\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\trabalhosAndroid\Exercicios Agenda\app\build\intermediates\pre-dexed\debug\classes-8feceb99a7090faaf0549b9f764c54bfc01ebd2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cleiton Gonçalves\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\trabalhosAndroid\Exercicios Agenda\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-53bdd1a01174c86fed27d6ca431b05430eaa6bd5.jar" />
+    </item>
+    <item
+        jar="C:\trabalhosAndroid\Exercicios Agenda\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\trabalhosAndroid\Exercicios Agenda\app\build\intermediates\pre-dexed\debug\classes-6680beb8ae2b1d53ee48bfaccafd536bc14a2175.jar" />
+    </item>
+    <item
+        jar="C:\trabalhosAndroid\Exercicios Agenda\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\trabalhosAndroid\Exercicios Agenda\app\build\intermediates\pre-dexed\debug\classes-2b881d435ef4f73c03dfaff23b471853323e61da.jar" />
+    </item>
+    <item
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\trabalhosAndroid\Exercicios Agenda\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-cd60eda5b48a53aa4e2bf0a1a79c87f86b70d6da.jar" />
+    </item>
+
+</items>
